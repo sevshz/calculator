@@ -1,2 +1,2 @@
 # calculator
-Interactive calculator with pygame
+calculator with pygame
